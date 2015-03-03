@@ -1,0 +1,9 @@
+name: xml_to_tiles
+version: 0.0.1
+description: A library useful for applications or for sharing on pub.dartlang.org.
+dependencies:
+  tiles: any
+  xml: any
+dev_dependencies:
+  mock: any
+  unittest: any
