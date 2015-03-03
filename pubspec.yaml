@@ -1,9 +1,12 @@
 name: xml_to_tiles
 version: 0.0.1
+author: Jakuub Uhrik<jakuub@mail.com>
 description: A library useful for applications or for sharing on pub.dartlang.org.
+homepage: https://github.com/BookYourself/xml-to-tiles
+documentation: https://github.com/BookYourself/xml-to-tiles
 dependencies:
-  tiles: any
-  xml: any
+  tiles: '>=0.1.1 <1.0.0'
+  xml: '>=2.2.3 <3.0.0'
 dev_dependencies:
   mock: any
   unittest: any
